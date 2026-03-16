@@ -1,1 +1,27 @@
 /target
+
+# Rust / Cargo
+**/*.rs.bk
+
+# SQLite / local databases
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
