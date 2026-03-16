@@ -1,3 +1,7 @@
+
+## Distributed Network to transfer the data.
+This project is part of my backend engineering portfolio. The backend architecture, API design, and implementation were designed and built by me while exploring and learning core backend development concepts.
+
 cargo run -- listen --port 8000 --name Node1
 
 
